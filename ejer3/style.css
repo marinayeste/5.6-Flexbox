@@ -1,0 +1,25 @@
+.contenedor {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+}
+
+#section1 {
+    color: green;
+    padding: 40px;
+}
+
+#section2 {
+    background-color: olivedrab;
+    color: pink;
+    border-radius: 20px;
+    padding: 50px;
+    height: fit-content;
+}
+
+#section2 li {
+    list-style: none;
+}

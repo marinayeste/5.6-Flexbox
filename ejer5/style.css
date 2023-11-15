@@ -1,0 +1,41 @@
+
+.section1{
+    background-color: pink;
+}
+
+.section2 {
+    background-color: green;
+}
+
+.articulos1 {
+    display: flex;
+    text-align: center;
+}
+
+.articulos2 {
+    display: flex;
+}
+
+h2 {
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.titulos {
+    display: flex;
+    justify-content: center;
+}
+
+#intro {
+    color: tomato;
+}
+
+#noticias {
+    color: green;
+}
+
+article {
+    margin: 20px;
+}
